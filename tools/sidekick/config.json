@@ -6,7 +6,7 @@
       "title": "Library",
       "environments": [ "edit" ],
       "url": "https://main--tauniv--dipenrique.hlx.live/tools/sidekick/library.html",
-      "includePaths": [ "**.docx**" ]
+      "includePaths": [ "**","**.docx**" ]
     },
     {
       "id": "asset-library",
