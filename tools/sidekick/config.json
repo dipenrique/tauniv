@@ -4,7 +4,7 @@
     {
       "id": "library",
       "title": "Library",
-      "environments": [ "edit" ],
+      "environments": [ "preview", "live", "edit" ],
       "url": "https://main--tauniv--dipenrique.aem.live/tools/sidekick/library.html",
       "includePaths": [ "**","**.docx**" ]
     },
