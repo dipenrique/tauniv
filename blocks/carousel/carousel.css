@@ -1,11 +1,11 @@
 
-main > .section .carousel .carousel-slide {
-/*   max-height: min(50vw, calc(100dvh - var(--header-height))); */
+/* main > .section .carousel .carousel-slide {
+   max-height: min(50vw, calc(100dvh - var(--header-height))); 
   height: 500px;
   min-height: 500px;
   max-height: 500px;
 }
-
+*/
 .carousel .carousel-slides-container {
   position: relative;
 }
