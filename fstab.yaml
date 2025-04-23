@@ -1,3 +1,4 @@
 mountpoints:
+  /: https://drive.google.com/drive/folders/1Y-9UCuuyDAVytdtrJ2oNOdAh4TWR2a9h
   # /: https://drive.google.com/drive/folders/1Gwwrujv0Z4TxJM8askdqQkHSD969dGK7
-  /: https://adobe.sharepoint.com/sites/TAU/Shared%20Documents/EDS-websites/tauniv
+  # /: https://adobe.sharepoint.com/sites/TAU/Shared%20Documents/EDS-websites/tauniv
