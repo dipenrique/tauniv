@@ -3,3 +3,7 @@ mountpoints:
   # /: https://drive.google.com/drive/folders/1Gwwrujv0Z4TxJM8askdqQkHSD969dGK7
    # /: https://adobe.sharepoint.com/sites/TAU/Shared%20Documents/EDS-websites/tauniv
   /: https://drive.google.com/drive/folders/1Y-9UCuuyDAVytdtrJ2oNOdAh4TWR2a9h
+
+folders:
+  # Generate everything on and below /products with the "generic-product"
+  /products: /generic-product
