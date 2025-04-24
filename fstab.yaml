@@ -5,5 +5,5 @@ mountpoints:
   /: https://drive.google.com/drive/folders/1Y-9UCuuyDAVytdtrJ2oNOdAh4TWR2a9h
 
 folders:
-  # Generate everything on and below /products with the "generic-product"
+  # Generate dynamic URLS below /products with single pagae "product-default"
   /products: /product-default
