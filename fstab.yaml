@@ -6,4 +6,4 @@ mountpoints:
 
 folders:
   # Generate everything on and below /products with the "generic-product"
-  /products: /generic-product
+  /products: /product-default
